@@ -2,7 +2,7 @@
 > Website name : Pg's Blog
 >
 > Wesite link : www.pgsites.epizy.com
->> Please try refreshing and incoignito mode if the site doesn't load.!
+>> Please try using multiple-refresh or incoignito mode or a different browser if the site doesn't load. 
 
  
 ### Designed using WordPress and Elementor and a whole lot of plugins. 
